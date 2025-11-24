@@ -16,8 +16,7 @@ My work includes:
 - Secure virtualization and automated incident response  
 - Strategic cybersecurity leadership and governance  
 
-I am currently developing the **S4T Framework**, a modular zero-trust architecture integrating automation, security orchestration, SIEM, and resilient infrastructure patterns.
-
+S4T Framework, currently used in real-world production environments, is now transitioning into a publicly structured modular release, incorporating Zero Trust architecture, automated defense, SIEM/SOAR orchestration, and resilience-driven infrastructure patterns.
 ---
 
 ### 📚 Research & Publications
