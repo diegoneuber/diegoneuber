@@ -1,105 +1,116 @@
-👋 Hi, I'm Diego Neuber
+<h1 align="center">🔐 Diego Neuber</h1>
 
-Cybersecurity Researcher • CISO • Framework Architect • IEEE Senior Member
-Focused on AI-enabled cyber defense, Zero-Trust architectures, and resilience engineering for critical and enterprise systems.
+<p align="center">
+  <strong>Cybersecurity Researcher • CISO • Framework Architect • IEEE Senior Member</strong><br>
+  AI-enabled Cyber Defense • Zero-Trust Architecture • Resilience Engineering
+</p>
 
-🔐 About My Work
+---
 
-I design and lead applied cybersecurity solutions for high-impact production environments, connecting academic research with scalable enterprise deployment.
+<div align="center">
 
-My current work includes:
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0001--6474--5218-green?logo=orcid&logoColor=white)](https://orcid.org/0009-0001-6474-5218)
+[![IEEE Senior Member](https://img.shields.io/badge/IEEE-Senior%20Member-blue?logo=ieee)](https://www.ieee.org/)
+[![Cybersecurity](https://img.shields.io/badge/Field-Cybersecurity-red?logo=linux&logoColor=white)]()
+[![Zero Trust](https://img.shields.io/badge/Zero--Trust%20Architecture-Active-blueviolet)]()
 
-Cyber-resilient infrastructure architecture
+</div>
 
-Deep-learning–based threat detection
+---
 
-Automated incident response and secure virtualization
+## 🌐 Official Cyber Resilience Framework – Download Page
 
-SIEM/SOAR orchestration and Zero-Trust enforcement
+### 📥 Public Components + Live Adoption Metrics  
+👉 **https://disatech.com.br/implementacao/**
 
-Strategic cybersecurity leadership, governance, and risk intelligence
+The page includes:
+- Hardened builds (PfSense, Proxmox-based stack)
+- Automated deployment scripts (Wazuh, Zabbix, OCS, OwnCloud)
+- Release notes, version history, and real download metrics  
+- Production-adoption information across Brazil, Chile, Peru, USA and Germany  
 
-🛡 S4T Cyber Resilience Framework
+---
 
-The S4T Framework, already deployed in production environments across multiple countries, is now transitioning into a structured modular public release, integrating:
+## 🔐 About My Work
 
-Zero-Trust architecture
+I design and lead **applied cybersecurity solutions** that bridge **academic research** with **enterprise-grade deployment**.  
+My focus areas include:
 
-Automated cyber defense
+- Cyber-resilient infrastructure architecture  
+- Deep-learning–based threat detection  
+- SIEM/SOAR automation & incident response  
+- Secure virtualization & Zero-Trust enforcement  
+- Governance, leadership, and enterprise cybersecurity strategy  
 
-SIEM/SOAR orchestration
+My work supports **production environments**, critical systems, and multinational infrastructures.
 
-Threat-model–driven segmentation
+---
 
-Resilience-driven infrastructure templates
+## 🛡 S4T Cyber Resilience Framework
 
-🌐 Official Download Page (with public metrics)
+The **S4T Framework** integrates:
 
-➡️ https://disatech.com.br/implementacao/
+- Zero-Trust architecture  
+- Automated defense & segmentation  
+- SIEM/SOAR orchestration  
+- Threat-model–driven virtualization  
+- Resilience-driven infrastructure patterns  
 
-(Contains hardened components, automation scripts, adoption metrics, and release history)
+The framework is already **adopted in real production environments**, and is now transitioning into a **structured, modular public release**.
 
-📚 Research & Publications
+📥 **Download + Version History:**  
+https://disatech.com.br/implementacao/
 
-📁 Repository: research-and-publications
+---
+
+## 📚 Research & Publications
+
+📁 Repository → **research-and-publications**
 
 Focus areas:
 
-AI-driven cybersecurity
+- AI-driven cybersecurity  
+- Botnet behavior modeling  
+- SOAR-driven automated defense  
+- Zero-Trust adoption models  
+- Resilience engineering for SMEs and critical infrastructures  
 
-Botnet detection & behavioral modeling
+### Achievements:
+- ✔ **8 peer-reviewed papers**  
+- ✔ Accepted publications at **ICECER 2025** and **ACDSA 2026**  
+- ✔ Research referenced in governance, innovation, and enterprise cyber defense  
 
-SOAR automation and cyber defense orchestration
+---
 
-Zero-Trust adoption frameworks
+## 🏆 Recognition & Professional Service
 
-Cyber resilience for SMEs and critical systems
+📁 Repository → **impact-and-recognition**
 
-Achievements:
+- **Senior Member — IEEE**  
+- **Global Ambassador — Global Council for Responsible AI (GCRAI)**  
+- **Associate C|CISO — EC-Council (Executive Track)**  
+- **Judge — Globee® Cybersecurity Awards (2024 & 2025)**  
+- **Judge — German Stevie® Awards (2025)**  
+- **Panel Reviewer — IEEE Senior Member Evaluations**  
+- Reviewer for:  
+  ISDFS, ACDSA, EURAM, LACCEI, AIB, and others  
 
-✔ 8 peer-reviewed papers
+---
 
-✔ Publications accepted at ICECER 2025 and ACDSA 2026
+## 🚀 Current Focus
 
-✔ Research referenced in governance, innovation, and enterprise cybersecurity
+- Expanding the **Sec4Tech Cyber Defense Initiative**  
+- Publishing AI-augmented Zero-Trust research  
+- Advancing enterprise adoption of open cyber resilience frameworks  
+- Bridging **machine learning** and **applied cybersecurity engineering**  
 
-🏆 Recognition & Professional Service
+---
 
-📁 Repository: impact-and-recognition
+## 📫 Contact
 
-Senior Member — IEEE
+📧 **diego@disatech.com.br**  
+🟢 ORCID: https://orcid.org/0009-0001-6474-5218  
 
-Global Ambassador — Global Council for Responsible AI (GCRAI)
-
-Associate C|CISO — EC-Council (Executive Track)
-
-Judge — Globee® Cybersecurity Awards (2024 & 2025)
-
-Judge — German Stevie® Awards (2025)
-
-Panel Reviewer — IEEE Senior Member Evaluations
-
-Invited reviewer for:
-ISDFS, ACDSA, EURAM, LACCEI, AIB, and others
-
-🚀 Current Focus
-
-Expanding the Sec4Tech Cyber Defense Initiative
-
-Publishing AI-augmented Zero-Trust research
-
-Advancing open cybersecurity framework adoption
-
-Bridging machine learning research with applied cyber defense
-
-📫 Contact
-
-Email: diego@disatech.com.br
-
-ORCID: https://orcid.org/0009-0001-6474-5218
-
-🏷 Available for collaboration, advisory, and technical review roles.
-
-“Security is no longer a technical function —
-it is how modern systems think, react, evolve, and survive.”
-— Diego Neuber
+> “Security is no longer a technical function —  
+> it is how modern systems think, react, evolve, and survive.”  
+> — *Diego Neuber*
